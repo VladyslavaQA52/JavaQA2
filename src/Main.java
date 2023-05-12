@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("Hello world!");
         int balance = 200; //начальный счёт//
-        int deposit = 500; //сумма пополнения
+        int deposit = 1500; //сумма пополнения
         int bonus; // бонус
         if (deposit > 1000) {
             bonus = (deposit / 100);
